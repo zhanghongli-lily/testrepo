@@ -1,0 +1,15 @@
+APIname:登录
+APIdesicription:登录接口用例
+#APIpropoties:
+#   url: /caizhi_web_manage/#/login
+#   method: get
+#   requestParam:
+#       -
+#       username: lily
+#       password: 123456
+#       test: 测试正常登录
+#       -
+#       username: lily
+#       password: 12345
+#       test: 测试密码错误
+
