@@ -19,6 +19,14 @@ public class TestCasesDemo1 {
                 .get("https://test.tengmoney.com/caizhi_web_manage/#/login")
                 .then().statusCode(200);
     }
+
+    @Test
+    @DisplayName("TestCasesDemo1-testCase3")
+    public void testCase3(){
+        RestAssured.given()
+                .get("https://test.tengmoney.com/caizhi_web_manage/#/login")
+                .then().statusCode(200);
+    }
 }
 
 
